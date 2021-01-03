@@ -8,4 +8,4 @@ For more info on bmRottler try https://ramblings.mcpher.com/?s=bmRottler or use 
 ## Library reference
 1dajqLysdKo8IoqddtEaGhtUUlSbtSQ1Agi2K5cXSUm0DxXfLYouSO9yD
 
-Now update manually with details of this project - this skeleton file is committed only when there is no README.md in the repo.
+See https://github.com/brucemcpherson/rottler for documentation and options.
